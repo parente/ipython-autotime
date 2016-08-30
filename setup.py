@@ -6,7 +6,7 @@ setup(
 
     version="0.1",
 
-    author="Phillip Cloud,
+    author="Phillip Cloud",
     author_email="cpcloud@gmail.com",
 
     url="https://github.com/cpcloud/ipython-autotime",
